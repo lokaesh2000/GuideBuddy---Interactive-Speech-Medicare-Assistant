@@ -1,0 +1,24 @@
+# Core dependencies
+python-dotenv>=0.19.2
+numpy>=1.22.0
+pandas>=1.4.0
+
+# Audio processing
+PyAudio>=0.2.11
+wave>=0.0.2
+
+# Speech recognition
+faster-whisper>=0.5.1
+ctranslate2>=3.5.1
+tokenizers>=0.13.2
+
+# Document processing
+PyPDF2>=2.10.0
+Pillow>=9.0.0
+
+# API integrations
+google-generativeai>=0.3.1
+requests>=2.27.1
+
+# Optional GPU support for speech recognition
+# torch>=1.10.0  # Uncomment if using GPU
