@@ -1,0 +1,11 @@
+{
+  "documents": [
+    {
+      "filename": "250px-Hirnmetastase_MRT-T1_KM_20250405_231930.jpg",
+      "type": "image",
+      "content": "MEDICAL IMAGE ANALYSIS\n\nImage: 250px-Hirnmetastase_MRT-T1_KM_20250405_231930.jpg\nFormat: JPEG\nMode: L\nDimensions: 250 x 270 pixels\n\nIMAGE CONTENT:\nThis is a prototype. In the final implementation, this would use Gemini's\nmulti-modal capabilities to analyze the medical image content.\n\nImage type not determined from filename.\nFull analysis would identify the image type and relevant medical findings.\n\nDISCLAIMER: This is a simulated analysis for prototype purposes.\nNo actual medical image analysis has been performed.\nAlways consult with a qualified healthcare provider for proper interpretation."
+    }
+  ],
+  "summary": "MEDICAL DOCUMENT ANALYSIS SUMMARY\n\nDocument: 250px-Hirnmetastase_MRT-T1_KM_20250405_231930.jpg (Type: image)\n- MEDICAL IMAGE ANALYSIS\n- Image: 250px-Hirnmetastase_MRT-T1_KM_20250405_231930.jpg\n\n",
+  "recommendations": "RECOMMENDATIONS BASED ON DOCUMENT ANALYSIS\n\n1. Please discuss these findings with your healthcare provider.\n2. Regular follow-up is recommended for monitoring.\n3. Consider additional testing as advised by your physician.\n\nDISCLAIMER: These are automated suggestions and not a substitute for professional medical advice."
+}

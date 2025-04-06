@@ -1,0 +1,136 @@
+[
+  {
+    "sender": "patient",
+    "message": "Hi",
+    "timestamp": "2025-04-05T18:23:27.913415"
+  },
+  {
+    "sender": "patient",
+    "message": "Hi, how are you doing today?",
+    "timestamp": "2025-04-05T21:12:33.923221"
+  },
+  {
+    "sender": "patient",
+    "message": "A parts key is expected.",
+    "timestamp": "2025-04-05T21:12:50.236663"
+  },
+  {
+    "sender": "patient",
+    "message": "hi",
+    "timestamp": "2025-04-05T22:41:53.335794"
+  },
+  {
+    "sender": "patient",
+    "message": "hi",
+    "timestamp": "2025-04-05T22:42:26.839395"
+  },
+  {
+    "sender": "patient",
+    "message": "Hi, how are you doing today?",
+    "timestamp": "2025-04-05T23:07:34.987743"
+  },
+  {
+    "sender": "patient",
+    "message": "hi",
+    "timestamp": "2025-04-05T23:56:54.379391"
+  },
+  {
+    "sender": "patient",
+    "message": "hi",
+    "timestamp": "2025-04-05T23:57:06.450809"
+  },
+  {
+    "sender": "patient",
+    "message": "how are you doing",
+    "timestamp": "2025-04-05T23:57:21.602279"
+  },
+  {
+    "sender": "patient",
+    "message": "I want to help in some diagnosis of my medical condition.",
+    "timestamp": "2025-04-05T23:57:40.545720"
+  },
+  {
+    "sender": "patient",
+    "message": "i feel i am having chest pain",
+    "timestamp": "2025-04-06T00:57:47.160287"
+  },
+  {
+    "sender": "patient",
+    "message": "hey",
+    "timestamp": "2025-04-06T00:58:13.481158"
+  },
+  {
+    "sender": "patient",
+    "message": "Hello.",
+    "timestamp": "2025-04-06T00:58:32.751227"
+  },
+  {
+    "sender": "patient",
+    "message": "hi i am i am getting chest Pain",
+    "timestamp": "2025-04-06T01:02:51.243216"
+  },
+  {
+    "sender": "patient",
+    "message": "Hello, my name is Rupesh. I'm having chest pain.",
+    "timestamp": "2025-04-06T01:03:40.257382"
+  },
+  {
+    "sender": "patient",
+    "message": "HI",
+    "timestamp": "2025-04-06T01:46:46.147904"
+  },
+  {
+    "sender": "patient",
+    "message": "HI",
+    "timestamp": "2025-04-06T01:47:13.313921"
+  },
+  {
+    "sender": "patient",
+    "message": "HI",
+    "timestamp": "2025-04-06T02:16:34.891511"
+  },
+  {
+    "sender": "patient",
+    "message": "How are you",
+    "timestamp": "2025-04-06T02:16:47.145652"
+  },
+  {
+    "sender": "patient",
+    "message": "Hi, how are you doing?",
+    "timestamp": "2025-04-06T02:17:15.269464"
+  },
+  {
+    "sender": "patient",
+    "message": "Hi",
+    "timestamp": "2025-04-06T02:54:51.288934"
+  },
+  {
+    "sender": "patient",
+    "message": "How are you doing",
+    "timestamp": "2025-04-06T02:55:05.093236"
+  },
+  {
+    "role": "user",
+    "content": "Hi"
+  },
+  {
+    "role": "user",
+    "content": "How are you doing"
+  },
+  {
+    "role": "user",
+    "content": "I need your help in a diagosis"
+  },
+  {
+    "role": "user",
+    "content": "Hi, I need your help in diagnosing cases for me."
+  },
+  {
+    "role": "user",
+    "content": "Hi"
+  },
+  {
+    "role": "model",
+    "content": "Hello LokeshThandra!\n\nI'm doing well, thank you for asking. I understand you're looking for help with a diagnosis.\n\nWhile I can provide medical information and guidance, it's important to understand that **I am not a doctor and cannot provide a medical diagnosis.**  Think of me as a helpful source of general medical information, but not a replacement for seeing a real doctor or other qualified healthcare professional.\n\nDiagnosing medical conditions requires a thorough examination, understanding your specific medical history, and often involves tests that I cannot perform.  It's really important to see a doctor for any health concerns you have. They are the best equipped to accurately diagnose and recommend the right treatment for you.\n\n**If you are experiencing any symptoms or have health concerns, please make an appointment to see a doctor or visit a qualified healthcare provider as soon as possible.**\n\nHowever, I can still be helpful!  If you have questions about general medical topics, symptoms, or want to understand more about health information you've come across, I can try my best to provide you with clear and understandable information based on my knowledge.\n\n**Please remember, this information is for general knowledge and guidance only, and does not substitute professional medical advice.**\n\nHow can I help you with medical information or guidance today, keeping in mind my limitations?"
+  }
+]

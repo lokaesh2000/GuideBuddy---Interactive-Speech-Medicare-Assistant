@@ -1,0 +1,11 @@
+{
+  "documents": [
+    {
+      "filename": "Lokesh Thandra Skin Infection report_20250406_070523.pdf",
+      "type": "text",
+      "content": "```\n## Medical Document Analysis\n\nBased on the provided document, here's the extracted key information:\n\n### Patient Information\n* Not mentioned in the document.\n\n### Diagnoses\n* Not mentioned in the document.\n\n### Medications and Dosages\n* Not mentioned in the document.\n\n### Lab Values and Test Results\n* Not mentioned in the document.\n\n### Treatment Recommendations\n* Not mentioned in the document.\n\n### Follow-up Instructions\n* Not mentioned in the document.\n```"
+    }
+  ],
+  "summary": "MEDICAL DOCUMENT ANALYSIS SUMMARY\n\nDocument: Lokesh Thandra Skin Infection report_20250406_070523.pdf (Type: text)\n- ```\n- ## Medical Document Analysis\n\n",
+  "recommendations": "RECOMMENDATIONS BASED ON DOCUMENT ANALYSIS\n\n1. Please discuss these findings with your healthcare provider.\n2. Regular follow-up is recommended for monitoring.\n3. Consider additional testing as advised by your physician.\n\nDISCLAIMER: These are automated suggestions and not a substitute for professional medical advice."
+}

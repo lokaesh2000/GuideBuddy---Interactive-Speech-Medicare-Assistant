@@ -1,0 +1,45 @@
+[
+  {
+    "sender_username": "Lokesh",
+    "sender_type": "patient",
+    "recipient_username": "Ramu",
+    "recipient_type": "doctor",
+    "timestamp": "2025-04-05T23:58:39.908382",
+    "content": "Hi Doctor"
+  },
+
+  {
+"sender_username": "Ramu",
+    "sender_type": "doctor",
+    "recipient_username": "Lokesh",
+    "recipient_type": "patient",
+    "recipient_type": "doctor",
+    "timestamp": "2025-04-06T01:29:59.820048",
+    "content": "Hi How are you doing?"
+  },
+{
+    "sender_username": "Lokesh",
+    "sender_type": "patient",
+    "recipient_username": "Ramu",
+    "recipient_type": "doctor",
+    "timestamp": "2025-04-05T23:58:40.272042",
+    "content": "I am doing good doctor, I have some skin infection."
+  },
+  
+  {
+    "sender_username": "Lokesh",
+    "sender_type": "patient",
+    "recipient_username": "Ramu",
+    "recipient_type": "doctor",
+    "timestamp": "2025-04-06T01:29:59.820048",
+    "content": "can i book appoinmten with u"
+  },
+  {
+    "sender_username": "Ramu",
+    "sender_type": "doctor",
+    "recipient_username": "Lokesh",
+    "recipient_type": "patient",
+    "timestamp": "2025-04-06T01:46:21.246046",
+    "content": "Cool i will call you"
+  }
+]

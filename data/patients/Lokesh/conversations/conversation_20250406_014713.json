@@ -1,0 +1,87 @@
+[
+  {
+    "sender": "patient",
+    "message": "Hi",
+    "timestamp": "2025-04-05T18:23:27.913415"
+  },
+  {
+    "sender": "patient",
+    "message": "Hi, how are you doing today?",
+    "timestamp": "2025-04-05T21:12:33.923221"
+  },
+  {
+    "sender": "patient",
+    "message": "A parts key is expected.",
+    "timestamp": "2025-04-05T21:12:50.236663"
+  },
+  {
+    "sender": "patient",
+    "message": "hi",
+    "timestamp": "2025-04-05T22:41:53.335794"
+  },
+  {
+    "sender": "patient",
+    "message": "hi",
+    "timestamp": "2025-04-05T22:42:26.839395"
+  },
+  {
+    "sender": "patient",
+    "message": "Hi, how are you doing today?",
+    "timestamp": "2025-04-05T23:07:34.987743"
+  },
+  {
+    "sender": "patient",
+    "message": "hi",
+    "timestamp": "2025-04-05T23:56:54.379391"
+  },
+  {
+    "sender": "patient",
+    "message": "hi",
+    "timestamp": "2025-04-05T23:57:06.450809"
+  },
+  {
+    "sender": "patient",
+    "message": "how are you doing",
+    "timestamp": "2025-04-05T23:57:21.602279"
+  },
+  {
+    "sender": "patient",
+    "message": "I want to help in some diagnosis of my medical condition.",
+    "timestamp": "2025-04-05T23:57:40.545720"
+  },
+  {
+    "sender": "patient",
+    "message": "i feel i am having chest pain",
+    "timestamp": "2025-04-06T00:57:47.160287"
+  },
+  {
+    "sender": "patient",
+    "message": "hey",
+    "timestamp": "2025-04-06T00:58:13.481158"
+  },
+  {
+    "sender": "patient",
+    "message": "Hello.",
+    "timestamp": "2025-04-06T00:58:32.751227"
+  },
+  {
+    "sender": "patient",
+    "message": "hi i am i am getting chest Pain",
+    "timestamp": "2025-04-06T01:02:51.243216"
+  },
+  {
+    "sender": "patient",
+    "message": "Hello, my name is Rupesh. I'm having chest pain.",
+    "timestamp": "2025-04-06T01:03:40.257382"
+  },
+  {
+    "sender": "patient",
+    "message": "HI",
+    "timestamp": "2025-04-06T01:46:46.147904"
+  },
+  {
+    "sender": "patient",
+    "message": "HI",
+    "timestamp": "2025-04-06T01:47:13.313921"
+  }
+]

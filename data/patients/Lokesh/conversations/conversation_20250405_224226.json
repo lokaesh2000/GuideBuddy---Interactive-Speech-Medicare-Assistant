@@ -1,0 +1,27 @@
+[
+  {
+    "sender": "patient",
+    "message": "Hi",
+    "timestamp": "2025-04-05T18:23:27.913415"
+  },
+  {
+    "sender": "patient",
+    "message": "Hi, how are you doing today?",
+    "timestamp": "2025-04-05T21:12:33.923221"
+  },
+  {
+    "sender": "patient",
+    "message": "A parts key is expected.",
+    "timestamp": "2025-04-05T21:12:50.236663"
+  },
+  {
+    "sender": "patient",
+    "message": "hi",
+    "timestamp": "2025-04-05T22:41:53.335794"
+  },
+  {
+    "sender": "patient",
+    "message": "hi",
+    "timestamp": "2025-04-05T22:42:26.839395"
+  }
+]

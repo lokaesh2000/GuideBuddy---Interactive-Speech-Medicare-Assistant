@@ -1,0 +1,11 @@
+{
+  "documents": [
+    {
+      "filename": "Coursera EMFW6F7GWXE4_20250405_235846.pdf",
+      "type": "text",
+      "content": "This document does not appear to be a medical document. It is a certificate of course completion. Therefore, I cannot extract medical information from it.\n\n**Analysis of the Provided Document:**\n\n**Patient Information:**\n* No patient information is available in this document. The document refers to an individual who completed an online course, but does not provide details relevant to a medical patient.\n\n**Diagnoses:**\n* No diagnoses are mentioned in this document.\n\n**Medications and Dosages:**\n* No medications or dosages are mentioned in this document.\n\n**Lab Values and Test Results:**\n* No lab values or test results are mentioned in this document.\n\n**Treatment Recommendations:**\n* No treatment recommendations are mentioned in this document.\n\n**Follow-up Instructions:**\n* No follow-up instructions are mentioned in this document."
+    }
+  ],
+  "summary": "MEDICAL DOCUMENT ANALYSIS SUMMARY\n\nDocument: Coursera EMFW6F7GWXE4_20250405_235846.pdf (Type: text)\n- This document does not appear to be a medical document. It is a certificate of course completion. Therefore, I cannot extract medical information from it.\n- **Analysis of the Provided Document:**\n\n",
+  "recommendations": "RECOMMENDATIONS BASED ON DOCUMENT ANALYSIS\n\n1. Please discuss these findings with your healthcare provider.\n2. Regular follow-up is recommended for monitoring.\n3. Consider additional testing as advised by your physician.\n\nDISCLAIMER: These are automated suggestions and not a substitute for professional medical advice."
+}

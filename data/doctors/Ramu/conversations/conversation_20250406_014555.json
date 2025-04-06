@@ -1,0 +1,22 @@
+[
+  {
+    "sender": "patient",
+    "message": "HI",
+    "timestamp": "2025-04-05T21:11:02.808818"
+  },
+  {
+    "sender": "patient",
+    "message": "Hi",
+    "timestamp": "2025-04-06T00:21:47.187274"
+  },
+  {
+    "sender": "patient",
+    "message": "HI",
+    "timestamp": "2025-04-06T00:22:18.600369"
+  },
+  {
+    "sender": "doctor",
+    "message": "HI",
+    "timestamp": "2025-04-06T01:45:55.228470"
+  }
+]

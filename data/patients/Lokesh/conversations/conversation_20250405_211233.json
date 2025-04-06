@@ -1,0 +1,12 @@
+[
+  {
+    "sender": "patient",
+    "message": "Hi",
+    "timestamp": "2025-04-05T18:23:27.913415"
+  },
+  {
+    "sender": "patient",
+    "message": "Hi, how are you doing today?",
+    "timestamp": "2025-04-05T21:12:33.923221"
+  }
+]
